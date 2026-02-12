@@ -1,4 +1,4 @@
-AICityPulse
+## AICityPulse APP
 
 A **complete, production-ready analytics dashboard** built with Flutter. Features 15+ metrics, interactive charts, real-time activity tracking, device analytics, traffic sources, and export functionality.
 
