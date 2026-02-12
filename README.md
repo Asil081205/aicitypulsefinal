@@ -103,52 +103,50 @@ This modular architecture ensures:
 
 ## 📸 Screenshots
 
-![WhatsApp Image 2026-02-13 at 2 05 32 AM](https://github.com/user-attachments/assets/90a16d66-5e84-443a-97d5-b9994a4ad12c)
+WELCOME PAGE : 
+![WhatsApp Image 2026-02-13 at 2 05 30 AM](https://github.com/user-attachments/assets/bfaa92ed-7223-4d0d-b00d-3f73a218e267)
 
-![WhatsApp Image 2026-02-13 at 2 05 32 AM (1)](https://github.com/user-attachments/assets/90e97d89-1037-4cf4-a9c3-c29816b5a8fe)
+LOGIN PAGE :
+![WhatsApp Image 2026-02-13 at 2 05 31 AM](https://github.com/user-attachments/assets/8028f209-41d0-4dc8-9f20-eecc6a2c361b)
 
-![WhatsApp Image 2026-02-13 at 2 05 32 AM (2)](https://github.com/user-attachments/assets/834291d3-e430-4933-b407-16e868f59eec)
+DASHBOARD :
+![WhatsApp Image 2026-02-13 at 2 05 31 AM (1)](https://github.com/user-attachments/assets/63a164b9-de6e-46fc-a362-ccb48de454cf)
 
-![WhatsApp Image 2026-02-13 at 2 05 33 AM](https://github.com/user-attachments/assets/95c27fc8-79d8-4fa0-8799-f9ca0a5127a7)
+LIVE CITY STATUS :
+![WhatsApp Image 2026-02-13 at 2 05 31 AM (2)](https://github.com/user-attachments/assets/fc695aaa-836b-4f8f-86c6-94b9c292ab09)
 
-![WhatsApp Image 2026-02-13 at 2 05 33 AM (1)](https://github.com/user-attachments/assets/1cb14b1e-f66b-4077-9a3f-08249e984718)
+LIVE DATA :
+![WhatsApp Image 2026-02-13 at 2 05 32 AM](https://github.com/user-attachments/assets/8a0d2c95-7695-4a30-9b39-7a52b380d800)
 
-![WhatsApp Image 2026-02-13 at 2 05 30 AM](https://github.com/user-attachments/assets/4af195e3-cd8c-4548-a228-898ee6e27313)
+ABOUT :
+![WhatsApp Image 2026-02-13 at 2 05 32 AM (1)](https://github.com/user-attachments/assets/0a5ae94c-7ad7-4dbe-94a4-6dbb55d9f434)
 
-![WhatsApp Image 2026-02-13 at 2 05 31 AM](https://github.com/user-attachments/assets/846476fe-0d61-4715-b5e0-f47c9a6e16b1)
+CITY HEALTH MAP :
+![WhatsApp Image 2026-02-13 at 2 05 33 AM](https://github.com/user-attachments/assets/9be9583c-186f-46e0-9e56-bd5d955357f3)
 
-![WhatsApp Image 2026-02-13 at 2 05 31 AM (1)](https://github.com/user-attachments/assets/e5f43d15-7dfd-4a08-993d-5894db50dcea)
-
-![WhatsApp Image 2026-02-13 at 2 05 31 AM (2)](https://github.com/user-attachments/assets/a64bc7d5-c606-41bd-899e-09ee9a50b6ce)
-
-![WhatsApp Image 2026-02-13 at 2 05 31 AM (3)](https://github.com/user-attachments/assets/5bedeb92-ef22-4a08-b4bc-ca2cc958e086)
-
-![WhatsApp Image 2026-02-13 at 2 05 31 AM (4)](https://github.com/user-attachments/assets/1e53b380-ed8d-487a-96f9-3719a882aede)
-
-
-(Upload images inside a `screenshots` folder in your repository.)
+![WhatsApp Image 2026-02-13 at 2 05 33 AM (1)](https://github.com/user-attachments/assets/0b992d84-142e-4ef5-a7bc-45b41dfb30e0)
 
 ---
 
 ## 🛠️ Installation Guide
 
-## 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 git clone https://github.com/Asil081205/aicitypulsefinal.git
 
-## 2️⃣ Navigate to Project
+2️⃣ Navigate to Project
 
 cd aicitypulsefinal
 
-## 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 
 flutter pub get
 
-## 4️⃣ Run the App
+4️⃣ Run the App
 
 flutter run
 
-🎯 Use Cases
+##🎯 Use Cases
 
 Smart City Planning
 
@@ -160,7 +158,7 @@ Environmental Monitoring
 
 Sustainable Development Research
 
-🌍 SDG Impact
+##🌍 SDG Impact
 
 AI City Pulse directly contributes to:
 
@@ -168,7 +166,7 @@ AI City Pulse directly contributes to:
 ✔ SDG 13 – Climate Action
 ✔ SDG 9 – Industry, Innovation & Infrastructure
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 Live IoT integration
 
@@ -182,7 +180,7 @@ Drone-based monitoring
 
 Blockchain for data transparency
 
-👨‍💻 Developer
+##👨‍💻 Developer
 
 Asil Jamesha T
 B.Tech – Artificial Intelligence & Data Science
@@ -195,7 +193,7 @@ CGPA: 8.24
 
 📧 Email: asilansari08@gmail.com
 
-📜 License
+##📜 License
 
 This project is developed for educational and research purposes.
 Open for collaboration and innovation.
