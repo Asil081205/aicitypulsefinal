@@ -103,25 +103,18 @@ This modular architecture ensures:
 
 ## 📸 Screenshots
 
-WELCOME PAGE : 
 ![WhatsApp Image 2026-02-13 at 2 05 30 AM](https://github.com/user-attachments/assets/bfaa92ed-7223-4d0d-b00d-3f73a218e267)
 
-LOGIN PAGE :
 ![WhatsApp Image 2026-02-13 at 2 05 31 AM](https://github.com/user-attachments/assets/8028f209-41d0-4dc8-9f20-eecc6a2c361b)
 
-DASHBOARD :
 ![WhatsApp Image 2026-02-13 at 2 05 31 AM (1)](https://github.com/user-attachments/assets/63a164b9-de6e-46fc-a362-ccb48de454cf)
 
-LIVE CITY STATUS :
 ![WhatsApp Image 2026-02-13 at 2 05 31 AM (2)](https://github.com/user-attachments/assets/fc695aaa-836b-4f8f-86c6-94b9c292ab09)
 
-LIVE DATA :
 ![WhatsApp Image 2026-02-13 at 2 05 32 AM](https://github.com/user-attachments/assets/8a0d2c95-7695-4a30-9b39-7a52b380d800)
 
-ABOUT :
 ![WhatsApp Image 2026-02-13 at 2 05 32 AM (1)](https://github.com/user-attachments/assets/0a5ae94c-7ad7-4dbe-94a4-6dbb55d9f434)
 
-CITY HEALTH MAP :
 ![WhatsApp Image 2026-02-13 at 2 05 33 AM](https://github.com/user-attachments/assets/9be9583c-186f-46e0-9e56-bd5d955357f3)
 
 ![WhatsApp Image 2026-02-13 at 2 05 33 AM (1)](https://github.com/user-attachments/assets/0b992d84-142e-4ef5-a7bc-45b41dfb30e0)
